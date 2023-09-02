@@ -1,4 +1,7 @@
 
+## Overview
+This app converts a gpx file to a json file usable as a game in simpleout.
+
 ## On a fresh clone
 ```bash
 python -m venv venv
